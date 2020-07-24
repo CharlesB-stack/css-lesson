@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+  <head>
+      <link rel="stylesheet" href="style.css">
+      <strong>FAKEBOOK</strong>
+  </head>
+  <body>
+  <h1>FAKEBOOK</h1>
+      <p>Search:</p> <input type="text" placeholder="Search by name">
+      <h3>Dale Barrymore</h3>
+      <img src="https://cdn.shopify.com/s/files/1/2800/8682/products/shirt-african-ucha-men-long-sleeve-shirt-white-1_620x.jpg?v=1577117054">
+      <br>
+      <button >Add friend</button>
+      <p id="JAB"><strong>City:</strong> Lagos </p>
+      <p><strong>Age:</strong> 32 </p>
+      <p><strong>Education:</strong> Carleton University </p>
+      <p><strong>Hobby:</strong> Sky diving </p>
+      <p class="Getto"><strong>FB friends:</strong>720 thousand </p>
+      <p class="Getto"><strong>FB enemies:</strong>nil </p>
+  </body>
+</html>
+</body>
